@@ -2,7 +2,7 @@
 
 <div align=center>
  <a href="https://solved.ac/kys1124/">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=molihua321">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kys1124">
  <a/>
 </div>
 
