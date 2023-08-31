@@ -1,7 +1,16 @@
 ### Hi there 👋
 
+<div align=center>
+ <a href="https://solved.ac/kys1124/">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=molihua321">
+ <a/>
+</div>
+
+
 <!--
 **kys1124/kys1124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
